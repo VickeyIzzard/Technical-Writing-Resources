@@ -1,1 +1,1 @@
-# technical-writing-resources
+# Technical-Writing-Resources
