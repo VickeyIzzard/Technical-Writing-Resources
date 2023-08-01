@@ -13,11 +13,11 @@ Dev,Software developer or development,,PTW 320.6,,
 DITA,Darwin information typing architecture,"XML-based, end-to-end architecture for authoring, producing, and delivering readable information as discrete, typed topics.",PTW 320.1,OASIS Darwin Information Typing Architecture (DITA) TC FAQ,https://www.oasis-open.org/committees/dita/faq.php
 DM,Disability management,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
 EN,Two character code designating the English language for ISO 639-1,,PTW 320.3,,
-en_GB,Five character code designating the English language code for IZO-639-1 that combines the two character language code and the two character country code British English (United Kingdom) separated by an underscore (_),,PTW 320.3,,
+en_GB,Five character code designating the English language code for IZO-639-1,Code combines the two character language code and the two character country code British English (United Kingdom) separated by an underscore (_),PTW 320.3,,
 EOD,End of day,,PTW 320.4,,
 ES,Two character code designating the Spanish language for ISO 639-1,,PTW 320.3,,
 "H1, H2, H3...","Heading 1, heading 2...",HTML meta tags to designate and mark up text as headings. The number denotes the importance; the higher the number the lower the hierarchy.,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist",https://proximacy.sg/what-are-h1-h2-h3-meta-tags/
-HH,"Format for hours as two-digits usually combined with ""MM"" such as HH:MM (example: 03:30)",,PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
+HH,Format for hours as two-digits,"Usually combined with ""MM"" such as HH:MM (example: 03:30)",PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
 HTML,Hypertext markup language,HTML is the standard markup language for creating Web pages.,PTW 320.1,HTML Introduction - W3Schools,https://www.w3schools.com/html/html_intro.asp
 HW,Homework,Course vernacular.,PTW 320.1,,
 I17N,Internationalization,Designing a product to enable localization.,PTW 320.3,,
@@ -33,7 +33,7 @@ JTBD,Jobs-to-be-done,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?""",https://j
 L10N,Localization,Adapting a product for a specific audience or location.,PTW 320.3,,
 LTR,Left-to-right,Languages are written and read from left to right.,PTW 320.3,"IXD@Pratt, “UX/UI Design for globalization – more than just translation”",https://ixd.prattsi.org/2018/12/ux-ui-design-for-globalization-more-than-just-translation/
 MB,Megabyte,"Unit used in measuring the amount of information a computer can store, with the value 1,048,576 bytes.",PTW 320.3,,
-MM,"Format for minutes as two-digits usually combined with ""HH"" such as HH:MM (example: 03:30)",,PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
+MM,Format for minutes as two-digits,"Usually combined with ""HH"" such as HH:MM (example: 03:30)",PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
 ODI,Outcome-driven innovation,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?""",https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb
 OS,Operating system,,PTW 320.1,,
 PAAS,Platform as a service,"On-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.",PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM,https://www.ibm.com/topics/iaas-paas-saas
