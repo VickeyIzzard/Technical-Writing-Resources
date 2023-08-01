@@ -22,7 +22,7 @@ To access the list, go to [PTW Acronyms](https://github.com/VickeyIzzard/Technic
 - To provide feedback or ask questions, <insert action to take with link (if available)>.
 
 ### Acronym Resources
-For links to the resources related to acronyms for PTW, go to [PTW Acronym Resources](https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/ptw-acronym-resources.md).
+For links to the resources related to acronyms for PTW, go to [PTW Acronym Resources](#acronym-resource).
 
 ### Contributors
 -	Ami Remmers – Editor (Secondary)
