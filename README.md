@@ -18,7 +18,7 @@ To access the list, go to [PTW Acronyms](https://github.com/VickeyIzzard/Technic
 **Note:** This list is a compilation of acronyms to support student learning related to the 2023 summer cohort of the [PTW certificate at the University of Washington (UW) Professional & Continuing Education (UWCPE, UWC²)](https://www.pce.uw.edu/certificates/professional-technical-writing).
 - It is **not inclusive** of every word or phrase within this program.
 - General definitions are provided for **reference only**.
-- For guidelines and other help, go to [Resources](#Resources).
+- For guidelines and other help, go to [Acronym Resources](https://github.com/VickeyIzzard/Technical-Writing-Resources/edit/main/README.md#acronym-resources).
 - To provide feedback or ask questions, <insert action to take with link (if available)>.
 
 ### Acronym Resources
