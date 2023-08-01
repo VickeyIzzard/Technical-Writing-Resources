@@ -1,0 +1,74 @@
+Acronym,Definition,Information,Category,Topic,Course.Week,Term-Link
+A11Y,Accessibility,A community-driven effort to make digital accessibility easier. The acronym is an A numeronym is a number-based word with 11 for the number of letters between the letters a and y.,Acronym,,PTW 320.3,"What Does a11y Mean? | California State University, Northridge"
+ADA,Americans with Disabilities Act,,Acronym,Accessible and inclusive content,PTW 320.3,"Stanford, “History of Accessible Technology”"
+AI,Artificial intelligence,,Acronym,,PTW 320.3,Microsoft Inclusive Design
+ARM,Accessibility rating matrix,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+CPTC,Certified Professional Technical Communicator,Certification developed by APMG on behalf of the STC.,Acronym,,PTW 320.1,Foundation Level Certification (LEVEL I) - STC
+CRPD,Convention on the Rights of Persons with Disabilities from the UN,Convention on the Rights of Persons with Disabilities from the UN,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+CSS,Cascading style sheets,CSS is the language we use to style a Web page.,Acronym,,PTW 320.1,CSS Introduction - W3Schools
+CSV,Comma-separated values,Text file that uses a delimiter to separate values.,Acronym,,PTW 320.1,
+CX,Customer experience,,Acronym,,PTW 320.2,"Cate McGehee, “Content Strategy: Crafting the User Experience” course, Winter 2020"
+DE,Two character code designating the German language for ISO 639-1,,Acronym,,PTW 320.3,
+Dev,Software developer or development,,Acronym,,PTW 320.6,
+DITA,Darwin information typing architecture,"XML-based, end-to-end architecture for authoring, producing, and delivering readable information as discrete, typed topics.",Acronym,,PTW 320.1,OASIS Darwin Information Typing Architecture (DITA) TC FAQ
+DM,Disability management,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+EN,Two character code designating the English language for ISO 639-1,,Acronym,,PTW 320.3,
+en_GB,Five character code designating the English language code for IZO-639-1 that combines the two character language code and the two character country code British English (United Kingdom) separated by an underscore (_),,Acronym,,PTW 320.3,
+EOD,End of day,,Acronym,,PTW 320.4,
+ES,Two character code designating the Spanish language for ISO 639-1,,Acronym,,PTW 320.3,
+"H1, H2, H3...","Heading 1, heading 2...",HTML meta tags to designate and mark up text as headings. The number denotes the importance; the higher the number the lower the hierarchy.,Acronym,,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist"
+HH,"Format for hours as two-digits usually combined with ""MM"" such as HH:MM (example: 03:30)",,Acronym,,PTW 320.3,"WHMCS, “Security Questions”"
+HTML,Hypertext markup language,HTML is the standard markup language for creating Web pages.,Acronym,,PTW 320.1,HTML Introduction - W3Schools
+HW,Homework,Course vernacular.,Acronym,,PTW 320.1,
+I17N,Internationalization,Designing a product to enable localization.,Acronym,Localization,PTW 320.3,
+IA,Instructional Assistant,,Acronym,,PTW 320.1,
+IAAS,Infrastructure as a service,"On-demand access to cloud-hosted physical and virtual servers, storage and networking - the backend IT infrastructure for running applications and workloads in the cloud.",Acronym,,PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM
+ICT,Information and communications technology,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+ISO,International Organization for Standardization,,Acronym,,PTW 320.3,
+IT,Information technology,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+IXD,Interaction design,,Acronym,,PTW 320.3,
+JA,Two character code designating the Japanese language for ISO 639-1,,Acronym,,PTW 320.3,
+JSTOR,Journal storage,Digital library for the intellectually curious,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+JTBD,Jobs-to-be-done,,Acronym,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?"""
+L10N,Localization,Adapting a product for a specific audience or location.,Acronym,Localization,PTW 320.3,
+LTR,Left-to-right,Languages are written and read from left to right.,Acronym,,PTW 320.3,"""IXD@Pratt, “UX/UI Design for globalization – more than just
+ translation”"""
+MB,Megabyte,"Unit used in measuring the amount of information a computer can store, with the value 1,048,576 bytes.",Acronym,,PTW 320.3,
+MM,"Format for minutes as two-digits usually combined with ""HH"" such as HH:MM (example: 03:30)",,Acronym,,PTW 320.3,"WHMCS, “Security Questions”"
+ODI,Outcome-driven innovation,,Acronym,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?"""
+OS,Operating system,,Acronym,,PTW 320.1,
+PAAS,Platform as a service,"On-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.",Acronym,,PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM
+PC,Personal computer,,Acronym,,PTW 320.6,
+PDF,Portable document format,"File format created by Adobe to present and exchange documents regardless of the software, hardware, or operating systems.",Acronym,,PTW 320.1,https://www.adobe.com/acrobat/about-adobe-pdf.html
+POUR,"Perceivable, operable, understandable, and robust",Four principles of accessibility,Acronym,,PTW 320.3,
+PP,Portfolio project,Course vernacular.,Acronym,,PTW 320.1,
+PTW,Professional technical writing,"Nine-month certificate program on offer through the University of Washington’s UW Professional & Continuing Education (UWCPE, UWC²).",Acronym,,PTW 320.1,PTW Certificate in PTW at UWCPE
+PW,Plain Writing or Practical writing,,Acronym,,PTW 320.1,
+QA,Quality assurance,,Acronym,,PTW 320.6,
+RFP,Request for proposal,,Acronym,,PTW 320.1,
+ROI,Return on investment,,Acronym,,PTW 320.1,"McGovern, ""What Really Matters: Focusing on Top Tasks"""
+RTL,Right-to-left,Languages are written and read from right to left.,Acronym,,PTW 320.3,"""IXD@Pratt, “UX/UI Design for globalization – more than just
+ translation”"""
+SAAS,Software as a service,"On-demand access to ready-to-use, cloud-hosted application software.",Acronym,,PTW 320.4,IaaS vs. PaaS vs. SaaS | IBM
+SAMI,Synchronized Accessible Media Exchange,,Acronym,Accessible and inclusive content,PTW 320.3,"Stanford, “History of Accessible Technology”"
+SEM,Search engine marketing,The practice of marketing a business using paid advertisements appearing on SERPs.,Acronym,,PTW 320.6,
+SEO,Search engine optimization,,Acronym,,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist"
+SERP,Search engine results page,,Acronym,,PTW 320.6,
+SME,Subject matter expert,,Acronym,,PTW 320.4,
+SSML,Speech Synthesis Markup Language,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+STC,Society for Technical Communication,Professional association dedicated to the advancement of the field of technical communication.,Acronym,,PTW 320.1,About STC
+TAMI,Test accessibility and modification inventory,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+TBA,To be announced,,Acronym,,PTW 320.1,
+TC,Technical communication or communicator,,Acronym,,PTW 320.1,
+TDD,Telecommunications device for the deaf,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+TL;DR,Too long didn't read,,Acronym,,PTW 320.2,https://styleguide.mailchimp.com/tldr/
+TTY,"Teletypewriters, sometimes shortened to ""teletype""",,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+UI,User interface,,Acronym,,PTW 320.6,
+UN,United Nations,,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+UX,User experience,,Acronym,,PTW 320.1,
+W3C,World Wide Web Consortium,"Public-interest non-profit organization that develops standards and guidelines to help everyone build a web based on the principles of accessibility, internationalization, privacy and security.",Acronym,,PTW 320.3,https://www.w3.org/
+WAI,Web Accessibility Initiative,Part of the W3C,Acronym,Accessible and inclusive content,PTW 320.3,"Wikipedia, “Accessibility”"
+WCAG,Web Content Accessibility Guidelines,"International standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.",Acronym,,PTW 320.3,https://www.w3.org/WAI/standards-guidelines/wcag/
+WIFM,What's in it for me?,,Acronym,,PTW 320.1,
+XHTML,Extensible HyperText Markup Language,"XHTML is a stricter, more XML-based version of HTML. XHTML is HTML defined as an XML application.",Acronym,Accessible and inclusive content,PTW 320.3,HTML Versus XHTML - W3Schools
+XML,Extensible markup language,XML is a software- and hardware-independent tool for storing and transporting data.,Acronym,,PTW 320.1,XML Introduction - W3Schools
