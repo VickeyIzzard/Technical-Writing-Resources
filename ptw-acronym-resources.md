@@ -13,4 +13,4 @@
 ## Document Information
 | Date | Author | Changes |
 |:---|:---|:---|
-|Aug. 1, 2023| Author: [@Vickey I](https://github.com/VickeyIzzard) | Created document. |
+| Aug. 1, 2023 | [@Vickey I](https://github.com/VickeyIzzard) | Created document. |
