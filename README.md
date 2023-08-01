@@ -3,7 +3,7 @@ This repository is a collection of technical writing resources.
 
 > **Note:** Aug. 1, 2023, The main branch of this repository is [protected](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#lock-branch) to ensure the integrity of this repository as the [Contributors](https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#contributors) learn [GitHub](https://github.com/).
 >
-> To provide feedback or ask questions, **insert action to take with link (if available)**.
+> To provide feedback or ask questions, go to [New Issue](https://github.com/VickeyIzzard/Technical-Writing-Resources/issues/new/choose), fill out the form, then submit the new issue.
 
 ## PTW Acronyms
 <img align="right" src="./assets/images/Acronym-Blocks.jpg" width="40%" alt="A group of wooden blocks with black letters that spell the word acronym." title="A group of wooden blocks with black letters that spell the word acronym.">
@@ -42,7 +42,7 @@ To access the list, go to [PTW Acronyms](./assets/ptw-acronym-list.csv). The CSV
 Table with the change information for this document.
 | Date | Author | Changes |
 |:---|:---|:---|
-| Aug. 1, 2023 | [@Vickey I](https://github.com/VickeyIzzard) | Created document. |
+| Aug. 1, 2023 | [@Vickey Izzard](https://github.com/VickeyIzzard) | Created document. |
 
 <div align="right">
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
