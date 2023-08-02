@@ -10,7 +10,7 @@ This repository is a collection of technical writing resources.
 
 Professional technical writing ([PTW](./assets/ptw-acronym-list.csv#L44)) and technical communications ([TC](./assets/ptw-acronym-list.csv#L60)) involve highly specialized vocabulary. This resource aims to make acronyms related to PTW and TC more accessible to program students and others.
 
-*[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an acronym[^1] as “a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an abbreviation[^2] (such as FBI) formed from initial letters, known as an initialism[^3].”
+*[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an acronym[^1] as "a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an abbreviation[^2] (such as FBI) formed from initial letters, known as an initialism[^3]."
 - An **abbreviation** is a truncated word (such as [TTY](./assets/ptw-acronym-list.csv#L63)).
 - An **acronym** comprises parts of the phrase it stands for and is pronounced as a word (such as [ARM](./assets/ptw-acronym-list.csv#L5), [DITA](./assets/ptw-acronym-list.csv#L13), [ISO](./assets/ptw-acronym-list.csv#L27), [SAAS](./assets/ptw-acronym-list.csv#L50), etc.).
 - An **initialism** is an acronym pronounced as individual letters (such as [PTW](./assets/ptw-acronym-list.csv#L44) and [STC](./assets/ptw-acronym-list.csv#L57)).
@@ -49,8 +49,8 @@ Table with the change information for this document.
 </div>
 
 ### Footnotes
-[^1]: “Acronym.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/acronym. Accessed 30 Jul. 2023.
-[^2]: “Abbreviation.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/abbreviation. Accessed 1 Aug. 2023.
-[^3]: “Initialism.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/initialism. Accessed 30 Jul. 2023.
-[^4]: “Numeronym.” Wikipedia: The Free Encyclopedia, Wikimedia Foundation, Inc, https://en.wikipedia.org/wiki/Numeronym. Accessed 1 Aug. 2023.
-[^5]: “Rendering CSV and TSV data.” GitHub Docs, GitHub, Inc., https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files#rendering-csv-and-tsv-data. Accessed 1 Aug. 2023.
+[^1]: "Acronym." Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/acronym. Accessed 30 Jul. 2023.
+[^2]: "Abbreviation." Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/abbreviation. Accessed 1 Aug. 2023.
+[^3]: "Initialism." Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/initialism. Accessed 30 Jul. 2023.
+[^4]: "Numeronym." Wikipedia: The Free Encyclopedia, Wikimedia Foundation, Inc, https://en.wikipedia.org/wiki/Numeronym. Accessed 1 Aug. 2023.
+[^5]: "Rendering CSV and TSV data." GitHub Docs, GitHub, Inc., https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files#rendering-csv-and-tsv-data. Accessed 1 Aug. 2023.
