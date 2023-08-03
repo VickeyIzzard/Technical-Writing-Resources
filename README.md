@@ -8,7 +8,7 @@ This repository is a collection of technical writing resources.
 ## PTW Acronym Glossary
 <img align= "right" src=" ./assets/images/Acronym-Blocks.jpg" width=" 40%" alt=" A group of wooden blocks with black letters that spell the word acronym." title=" A group of wooden blocks with black letters that spell the word acronym.">
 
-Professional technical writing ([PTW](./assets/ptw-acronym-list.csv#L44)) and technical communications ([TC](./assets/ptw-acronym-list.csv#L60)) involve highly specialized vocabulary. This resource aims to make acronyms related to PTW and TC more accessible to University of Washington PTW program students and others.
+Professional technical writing (PTW) and technical communications (TC) involve highly specialized vocabulary. This resource aims to make acronyms related to PTW and TC more accessible to University of Washington PTW program students and others.
 
 To access the list, go to the [Acronym List](https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#acronym-list) section.
 
@@ -16,10 +16,10 @@ To access the list, go to the [Acronym List](https://github.com/VickeyIzzard/Tec
 *[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an [acronym](https://www.merriam-webster.com/dictionary/acronym) as "a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an [abbreviation](https://www.merriam-webster.com/dictionary/abbreviation) (such as FBI) formed from initial letters, known as an [initialism](https://www.merriam-webster.com/dictionary/initialism)."
 
 More about acronyms:
-- An **abbreviation** is a truncated word (such as [TTY](./assets/ptw-acronym-list.csv#L63)).
-- An **acronym** comprises parts of the phrase it stands for and is pronounced as a word (such as [ARM](./assets/ptw-acronym-list.csv#L5), [DITA](./assets/ptw-acronym-list.csv#L13), [ISO](./assets/ptw-acronym-list.csv#L27), [SAAS](./assets/ptw-acronym-list.csv#L50), etc.).
-- An **initialism** is an acronym pronounced as individual letters (such as [PTW](./assets/ptw-acronym-list.csv#L44) and [STC](./assets/ptw-acronym-list.csv#L57)).
-- A [**numeronym**](https://en.wikipedia.org/wiki/Numeronym) is a number-based word with a number to form an abbreviation or a word with the letters between the first and the last letter replaced by a number that represents the number of letters omitted (such as [L10N](./assets/ptw-acronym-list.csv#L33) for localization).
+- An **abbreviation** is a truncated word (such as TTY).
+- An **acronym** comprises parts of the phrase it stands for and is pronounced as a word (such as ARM, DITA, ISO, SAAS, etc.).
+- An **initialism** is an acronym pronounced as individual letters (such as PTW and STC).
+- A [**numeronym**](https://en.wikipedia.org/wiki/Numeronym) is a number-based word with a number to form an abbreviation or a word with the letters between the first and the last letter replaced by a number that represents the number of letters omitted (such as L10N for localization).
 
 ## Resources
 ### Acronym List
