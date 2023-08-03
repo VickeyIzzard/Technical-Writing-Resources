@@ -12,10 +12,6 @@ Professional technical writing (PTW) and technical communications (TC) involve h
 
 To access the list, go to the [Acronym List](https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#acronym-list) section.
 
-<div align="right">
-  <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
-</div>
-
 ### About Acronyms
 *[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an [acronym](https://www.merriam-webster.com/dictionary/acronym) as "a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an [abbreviation](https://www.merriam-webster.com/dictionary/abbreviation) (such as FBI) formed from initial letters, known as an [initialism](https://www.merriam-webster.com/dictionary/initialism)."
 
@@ -82,7 +78,3 @@ This list is a compilation of acronyms to support student learning related to th
 | Date | Author | Changes |
 |:---|:---|:---|
 | Aug. 1, 2023 | [@Vickey Izzard](https://github.com/VickeyIzzard) | Created document. |
-
-<div align="right">
-  <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
-</div>
