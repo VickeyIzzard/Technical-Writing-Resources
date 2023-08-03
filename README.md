@@ -6,7 +6,7 @@ This repository is a collection of technical writing resources.
 > To provide feedback or ask questions, go to [New Issue](https://github.com/VickeyIzzard/Technical-Writing-Resources/issues/new/choose), fill out the form, and submit the issue.
 
 ## PTW Acronym Glossary
-<img align= "right" src=" ./assets/images/Acronym-Blocks.jpg" width=" 40%" alt=" A group of wooden blocks with black letters that spell the word acronym." title=" A group of wooden blocks with black letters that spell the word acronym.">
+<img align= "right" src="./assets/images/Acronym-Blocks.jpg" width=" 40%" alt=" A group of wooden blocks with black letters that spell the word acronym." title=" A group of wooden blocks with black letters that spell the word acronym.">
 
 Professional technical writing (PTW) and technical communications (TC) involve highly specialized vocabulary. This resource aims to make acronyms related to PTW and TC more accessible to University of Washington PTW program students and others.
 
