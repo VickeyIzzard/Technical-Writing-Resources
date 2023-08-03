@@ -64,7 +64,7 @@ This list is a compilation of acronyms to support student learning related to th
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
 </div>
 
-### Contributors
+## Contributors
 -	Ami R. – Editor (Secondary)
 -	Erin K. – Production Specialist
 -	Kevan O. – Editor and Project Manager (Primary)
