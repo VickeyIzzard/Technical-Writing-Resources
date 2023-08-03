@@ -8,14 +8,14 @@ CRPD,Convention on the Rights of Persons with Disabilities from the UN,Conventio
 CSS,Cascading style sheets,CSS is the language we use to style a Web page.,PTW 320.1,CSS Introduction - W3Schools,https://www.stc.org/certification/foundation-certification/
 CSV,Comma-separated values,Text file that uses a delimiter to separate values.,PTW 320.1,,
 CX,Customer experience,,PTW 320.2,"Cate McGehee, “Content Strategy: Crafting the User Experience” course, Winter 2020",
-DE,Two character code designating the German language for ISO 639-1,,PTW 320.3,,
+DE,Two-character code designating the German language for ISO 639-1,,PTW 320.3,,
 Dev,Software developer or development,,PTW 320.6,,
 DITA,Darwin information typing architecture,"XML-based, end-to-end architecture for authoring, producing, and delivering readable information as discrete, typed topics.",PTW 320.1,OASIS Darwin Information Typing Architecture (DITA) TC FAQ,https://www.oasis-open.org/committees/dita/faq.php
 DM,Disability management,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
-EN,Two character code designating the English language for ISO 639-1,,PTW 320.3,,
-en_GB,Five character code designating the English language code for IZO-639-1,Code combines the two character language code and the two character country code British English (United Kingdom) separated by an underscore (_),PTW 320.3,,
+EN,Two-character code designating the English language for ISO 639-1,,PTW 320.3,,
+en_GB,Five-character code designating the English language code for IZO-639-1,Code combines the two-character language code and the two-character country code British English (United Kingdom) separated by an underscore (_),PTW 320.3,,
 EOD,End of day,,PTW 320.4,,
-ES,Two character code designating the Spanish language for ISO 639-1,,PTW 320.3,,
+ES,Two-character code designating the Spanish language for ISO 639-1,,PTW 320.3,,
 "H1, H2, H3...","Heading 1, heading 2...",HTML meta tags to designate and mark up text as headings. The number denotes the importance; the higher the number the lower the hierarchy.,PTW 320.3,"What Are H1, H2, H3 meta tags? - Proximacy LLP | Web Marketing Specialist",https://proximacy.sg/what-are-h1-h2-h3-meta-tags/
 HH,Format for hours as two-digits,"Usually combined with ""MM"" such as HH:MM (example: 03:30)",PTW 320.3,"WHMCS, “Security Questions”",https://docs.whmcs.com/Security_Questions
 HTML,Hypertext markup language,HTML is the standard markup language for creating Web pages.,PTW 320.1,HTML Introduction - W3Schools,https://www.w3schools.com/html/html_intro.asp
@@ -27,7 +27,7 @@ ICT,Information and communications technology,,PTW 320.3,"Wikipedia, “Accessib
 ISO,International Organization for Standardization,,PTW 320.3,,
 IT,Information technology,,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
 IXD,Interaction design,,PTW 320.3,,
-JA,Two character code designating the Japanese language for ISO 639-1,,PTW 320.3,,
+JA,Two-character code designating the Japanese language for ISO 639-1,,PTW 320.3,,
 JSTOR,Journal storage,Digital library for the intellectually curious,PTW 320.3,"Wikipedia, “Accessibility”",https://en.wikipedia.org/wiki/Accessibility
 JTBD,Jobs-to-be-done,,PTW 320.1,"Ulwick, ""What Is Jobs-to-be-Done?""",https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb
 L10N,Localization,Adapting a product for a specific audience or location.,PTW 320.3,,
