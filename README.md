@@ -114,6 +114,7 @@ This list is a compilation of acronyms to support student learning related to th
 |	XHTML	|	Extensible HyperText Markup Language	|	PTW 320.3	|		|
 |	XML	|	Extensible markup language	|	PTW 320.1	|		|
 
+</details>
 
 <div align="right">
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
@@ -131,7 +132,6 @@ This list is a compilation of acronyms to support student learning related to th
 -	[When to use acronyms - Write the Docs Newsletter – September 2022](https://www.writethedocs.org/blog/newsletter-september-2022/?highlight=acronyms#when-to-use-acronyms)
 -	[Wikipedia:Wikipedia abbreviations - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_abbreviations)
 
-</details>
 
 <div align="right">
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
