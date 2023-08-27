@@ -10,22 +10,6 @@ This repository is a collection of technical writing resources.
 
 Professional technical writing (PTW) and technical communications (TC) involve highly specialized vocabulary. This resource aims to make acronyms related to PTW and TC more accessible to University of Washington PTW program students and others.
 
-To access the list, go to the [Acronym List](https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#acronym-list) section.
-
-### About Acronyms
-*[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an [acronym](https://www.merriam-webster.com/dictionary/acronym) as "a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an [abbreviation](https://www.merriam-webster.com/dictionary/abbreviation) (such as FBI) formed from initial letters, known as an [initialism](https://www.merriam-webster.com/dictionary/initialism)."
-
-More about acronyms:
-- An **abbreviation** is a truncated word (such as TTY).
-- An **acronym** comprises parts of the phrase it stands for and is pronounced as a word (such as ARM, DITA, ISO, SAAS, etc.).
-- An **initialism** is an acronym pronounced as individual letters (such as PTW and STC).
-- A [**numeronym**](https://en.wikipedia.org/wiki/Numeronym) is a number-based word with a number to form an abbreviation or a word with the letters between the first and the last letter replaced by a number that represents the number of letters omitted (such as L10N for localization).
-
-<div align="right">
-  <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
-</div>
-
-## Resources
 ### Acronym List
 This list is a compilation of acronyms to support student learning related to the 2023 Spring cohort of the [PTW certificate at the University of Washington (UW) Professional & Continuing Education (UWCPE, UWC²)](https://www.pce.uw.edu/certificates/professional-technical-writing).
 - It is **not inclusive** of every word or phrase within this program.
@@ -35,10 +19,14 @@ This list is a compilation of acronyms to support student learning related to th
 > **Note:** Table content is in progress.
 -->
 
+<!-- 8/27/2023 VI - Removed expanding section.
 <details>
 <summary>To show the list of acronyms, <b>click here</b>. The list will appear in the expanded section.</summary>
+-->
 
+<!-- 8/27/2023 VI - Removed List heading.
 #### Acronym List Table
+-->
 
 |	Acronym	|	Definition	|	Course.Week	|	Source	|
 |	:---	|	:---	|	:---	|	:---	|
@@ -120,6 +108,20 @@ This list is a compilation of acronyms to support student learning related to th
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
 </div>
 
+## Resources
+### About Acronyms
+*[The Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/)* defines an [acronym](https://www.merriam-webster.com/dictionary/acronym) as "a word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term or an [abbreviation](https://www.merriam-webster.com/dictionary/abbreviation) (such as FBI) formed from initial letters, known as an [initialism](https://www.merriam-webster.com/dictionary/initialism)."
+
+More about acronyms:
+- An **abbreviation** is a truncated word (such as TTY).
+- An **acronym** comprises parts of the phrase it stands for and is pronounced as a word (such as ARM, DITA, ISO, SAAS, etc.).
+- An **initialism** is an acronym pronounced as individual letters (such as PTW and STC).
+- A [**numeronym**](https://en.wikipedia.org/wiki/Numeronym) is a number-based word with a number to form an abbreviation or a word with the letters between the first and the last letter replaced by a number that represents the number of letters omitted (such as L10N for localization).
+
+<div align="right">
+  <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
+</div>
+
 ### Acronym Resources
 - [Abbreviations and Acronyms - Grammar and Mechanics | Mailchimp Content Style Guide](https://styleguide.mailchimp.com/grammar-and-mechanics/#header-3-abbreviations-and-acronyms)
 - [Acronyms - Microsoft Style Guide | Microsoft Learn](https://learn.microsoft.com/en-us/style-guide/acronyms)
@@ -131,7 +133,6 @@ This list is a compilation of acronyms to support student learning related to th
 -	[What's an acronym? | Merriam-Webster](https://www.merriam-webster.com/words-at-play/whats-an-acronym)
 -	[When to use acronyms - Write the Docs Newsletter – September 2022](https://www.writethedocs.org/blog/newsletter-september-2022/?highlight=acronyms#when-to-use-acronyms)
 -	[Wikipedia:Wikipedia abbreviations - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_abbreviations)
-
 
 <div align="right">
   <a href='https://github.com/VickeyIzzard/Technical-Writing-Resources/blob/main/README.md#readme-top'>Top</a>
@@ -150,4 +151,5 @@ This list is a compilation of acronyms to support student learning related to th
 ## Document Information
 | Date | Author | Changes |
 |:---|:---|:---|
+| Aug. 27, 2023 | [@Vickey Izzard](https://github.com/VickeyIzzard) | Moved the acronym list higher on the page and removed the list heading and the expanding section. Consolidated the 'About Acronyms' section into the 'Resources' section. |
 | Aug. 1, 2023 | [@Vickey Izzard](https://github.com/VickeyIzzard) | Created document. |
